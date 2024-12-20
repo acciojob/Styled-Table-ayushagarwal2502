@@ -1,1 +1,25 @@
 /* your code */
+.table-1  {
+	width:100%;
+	border: 2px solid;
+	border-radius:15px
+}
+.tr-1 {
+	background-color:lightblue;
+}
+.tr-2 {
+	
+}
+.tr-3 {
+	background-color:grey;	
+}
+
+.tr-4{
+	
+}
+.tr-5 {
+	background-color:grey;
+}
+
+
+
